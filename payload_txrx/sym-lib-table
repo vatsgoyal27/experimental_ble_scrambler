@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "rfx2401c")(type "KiCad")(uri "${KIPRJMOD}/rfx2401c.kicad_sym")(options "")(descr ""))
+  (lib (name "balun")(type "KiCad")(uri "${KIPRJMOD}/balun.kicad_sym")(options "")(descr ""))
+  (lib (name "low pass filter")(type "KiCad")(uri "${KIPRJMOD}/low pass filter.kicad_sym")(options "")(descr ""))
+)
